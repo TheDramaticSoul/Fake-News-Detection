@@ -14,3 +14,8 @@ What things you need to install the software and how to install them:
    *  numpy
    *  scipy
 * if you have chosen to install python 3.6 then run below commands in command prompt/terminal to install these packages
+
+
+pre pip install -U scikit-learn
+pip install numpy
+pip install scipy
